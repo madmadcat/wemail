@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cefc71e-7fa4-4fe1-af6e-c1c8967ced13": {
+      "ProjectGuid": "2cefc71e-7fa4-4fe1-af6e-c1c8967ced13",
+      "DisplayName": "Wemail",
+      "ColorIndex": 0
+    },
+    "1ad6ceca-f18f-4fbb-b676-6d891cceb515": {
+      "ProjectGuid": "1ad6ceca-f18f-4fbb-b676-6d891cceb515",
+      "DisplayName": "Wemail.Contact",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
